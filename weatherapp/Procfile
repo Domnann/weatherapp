@@ -1,0 +1,1 @@
+web: gunicorn pink_django.wsgi
