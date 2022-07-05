@@ -1,1 +1,1 @@
-web: gunicorn pink_django.wsgi
+web: gunicorn weatherapp.wsgi
