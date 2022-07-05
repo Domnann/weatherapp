@@ -26,7 +26,9 @@ SECRET_KEY = 'django-insecure-50onja9#99zy%m@p-9xz+s=z^v0a)m@sj(ih1az!sm8#sx&w=-
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'pinkfingerweatherapp.herokuapp.com'
+]
 
 
 # Application definition
